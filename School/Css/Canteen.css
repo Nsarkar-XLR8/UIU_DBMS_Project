@@ -1,0 +1,101 @@
+
+body{
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    }
+    .drop{
+      
+        top: 100%;
+        left: -77px;
+        margin-top: var(--bs-dropdown-spacer);
+      
+    }
+    .navbar-nav{
+      margin-left: 755px;
+    }
+      span{
+        color: #f9004d;
+        
+      }
+      
+      /* top-bar  nav item */
+      .dropdownItem {
+        position: relative;
+        left: 17px;
+        text-decoration: none;
+        color: #fff;
+      }
+      .main-box{
+        position: relative;
+        background: url(/images/b2.jpg) right no-repeat;
+        background-size: cover;
+        height: 92vh;
+        width: 100%;
+     
+    }
+    .main-box{
+        display: flex;
+        
+    }
+    .details {
+       overflow-y: scroll;
+       padding-right: 40px;
+        margin-top: 28px;
+        margin-bottom: 25px;
+      }
+      #btn_detail {
+        margin-bottom: 30px;
+      }
+
+      .row.g-3.align-items-center.ps-5 {
+        padding-bottom: 15px;
+      }
+      .id.col-auto {
+        padding-right: 72px;
+      }
+      .Name.col-auto {
+        margin-left: 68px;
+      }
+      .ad.col-auto {
+        padding-right: 34px;
+      }
+      .cont.col-auto {
+        padding-right: 37px;
+      }
+      .sal.col-auto {
+        padding-right: 50px;
+      }
+      .ID.col-auto {
+        margin-left: -11px;
+      }
+      
+      .Dept-ID.col-auto {
+        margin-left: 14px;
+      }
+      .address.col-auto {
+        margin-left: 48px;
+      }
+      .Contact.col-auto {
+        margin-left: 21px;
+      }
+      .tableView {
+        margin-top: 50px;
+        height: 300px;
+        padding-right: 158px;
+        padding-top: 27px;
+        overflow-y: scroll;
+    }
+    
+
+      .input-edit{
+        height: 25px;
+      }
+
+
+    #info{
+      display: flex;
+      flex-direction: column;
+    }
+
+    

@@ -1,0 +1,23 @@
+.school-img1 img{
+    width: 45px;
+    height: 40px;
+          border-radius: 35px;
+      }
+      ul.dropdown-menu.show {
+        position: relative;
+        left: -71px;
+    }
+    span{
+        color: #f9004d;
+        
+      }
+
+
+      .form{
+        padding: 30px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+      }
+
+      

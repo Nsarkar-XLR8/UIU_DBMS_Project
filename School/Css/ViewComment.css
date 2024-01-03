@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .navbar-nav{
+        margin-left: 755px;
+      }
+    span{
+        color: #f9004d;
+        
+      }
+    .main-box{
+        position: relative;
+        background: url(/images/extra.jpg) right no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+     
+    }
+    
+
+
+    
+    .tableView {
+    
+        padding-top: 90px;
+        padding-left: 377px;
+        padding-right: 250px;
+    
+    }
+.page{
+    width: 400px;
+height: 423px;
+border: 2px solid black;
+background: rgb(255 ,225,225,0.5);
+
+}
+.page p{
+    line-height: 15px;
+}

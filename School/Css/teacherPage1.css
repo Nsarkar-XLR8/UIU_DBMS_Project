@@ -1,0 +1,80 @@
+
+body{
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    }
+    .navbar-nav{
+      margin-left: 755px;
+    }
+    
+      span{
+        color: #f9004d;
+        
+      }
+      
+      /* top-bar  nav item */
+      .dropdownItem {
+        position: relative;
+        left: 17px;
+        text-decoration: none;
+        color: #fff;
+      }
+      .main-box{
+        position: relative;
+        background: url(/images/b2.jpg) right no-repeat; 
+        background-size: cover;
+        height: 90vh;
+        width: 100%;
+     
+    }
+    .main-box{
+        display: flex;
+        
+    }
+
+    .row.g-3.align-items-center.ps-5 {
+      padding-bottom: 15px;
+    }
+    .id.col-auto {
+      padding-right: 72px;
+    }
+    .name.col-auto {
+      padding-right: 47px;
+    }
+    .ad.col-auto {
+      padding-right: 34px;
+    }
+    .cont.col-auto {
+      padding-right: 37px;
+    }
+    .sal.col-auto {
+      padding-right: 50px;
+    }
+    
+      .tableView {
+        position: fixed;
+        margin-top: 60px;
+        height: 300px;
+        padding-right: 158px;
+        padding-top: 27px;
+        /* overflow-y: scroll; */
+    }
+    
+      
+      .input-edit{
+        height: 25px;
+    }
+
+    @media only screen and (max-width: 400px) {
+      .details{
+        width: 100%;
+      }
+    }
+
+    
+    @media only screen and (max-width: 800px) {
+      .details{
+        width: 50%;
+      }
+    }

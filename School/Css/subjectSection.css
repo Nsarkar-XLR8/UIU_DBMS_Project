@@ -1,0 +1,42 @@
+
+body{
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    }
+    .drop{
+      
+        top: 100%;
+        left: -77px;
+        margin-top: var(--bs-dropdown-spacer);
+      
+    }
+    
+      span{
+        color: #f9004d;
+        
+      }
+      
+      /* top-bar  nav item */
+      .dropdownItem {
+        position: relative;
+        left: 17px;
+        text-decoration: none;
+        color: #fff;
+      }
+      .main-box{
+        position: relative;
+        background: url(../images/extra.jpg) right no-repeat;
+        background-size: cover;
+        height: 92vh;
+        width: 100%;
+     
+    }
+    .main-box{
+        display: flex;
+        
+    }
+    .subj{
+        align-items: center;
+    }
+    

@@ -1,0 +1,29 @@
+span{
+  color: #f9004d;
+  
+}
+.footer{
+    gap: 35px;
+    background-color:#000000 ;
+    color:white;
+  
+    
+}
+  .images{
+    width: 80px;
+    height: 80px;
+  }
+  .image{
+    width: 150px;
+    height: 50px;
+  }
+  a{
+    text-decoration: none !important;
+
+  }
+  .footers{
+    width: 100vw;
+  }
+
+
+  

@@ -1,0 +1,57 @@
+
+body{
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    
+    }
+    .navbar-nav{
+      margin-left: 755px;
+    }
+    
+      span{
+        color: #f9004d;
+        
+      }
+      
+      /* top-bar  nav item */
+      .dropdownItem {
+        position: relative;
+        left: 17px;
+        text-decoration: none;
+        color: #fff;
+      }
+      .main-box{
+        position: relative;
+        background: url(../images/b2.jpg) right no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+     
+    }
+    .main-box{
+        display: flex;
+        
+    }
+    
+    
+    .tableView {
+        padding-top: 50px;
+      }
+
+    .page{
+        width: 400px;
+    height: 323px;
+    color: #fff;
+  
+    
+    }
+    .page p{
+        line-height: 15px;
+        margin-bottom: 1.4rem;
+    }
+    .page.ps-2.pt-3 {
+      width: 560px;
+      height: 510px;
+  }    
+   

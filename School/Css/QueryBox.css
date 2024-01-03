@@ -1,0 +1,58 @@
+
+body{
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    }
+    .drop{
+      
+        top: 100%;
+        left: -77px;
+        margin-top: var(--bs-dropdown-spacer);
+      
+    }
+    .navbar-nav{
+      margin-left: 755px;
+    }
+      span{
+        color: #f9004d;
+        
+      }
+      .main {
+        /* background: rgba(19, 18, 18, 0.15); */
+        background: url(images/extra.jpg);
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+      }
+      /* top-bar  nav item */
+      .dropdownItem {
+        position: relative;
+        left: 17px;
+        text-decoration: none;
+        color: #fff;
+      }
+
+      .form-group {
+        padding-top: 30px;
+        margin-left: 287px;
+        margin-right: 159px;
+      }
+      /* .main-box{
+        position: relative;
+        background: url(/images/b2.jpg) right no-repeat;
+        background-size: cover;
+        height: 92vh;
+        width: 100%;
+     
+    }
+    .main-box{
+        display: flex;
+    } */
+
+    /* table design */
+    .table {
+      width: 393px;
+      width: 700px;
+      padding: 26px;
+    }

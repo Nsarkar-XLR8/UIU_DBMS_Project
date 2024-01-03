@@ -1,0 +1,96 @@
+
+body{
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    }
+    .navbar-nav{
+      margin-left: 755px;
+    }
+    
+      span{
+        color: #f9004d;
+        
+      }
+      
+      /* top-bar  nav item */
+      .dropdownItem {
+        position: relative;
+        left: 17px;
+        text-decoration: none;
+        color: #fff;
+      }
+      .main-box{
+        position: relative;
+        background: url(images/b2.jpg) right no-repeat;
+        background-size: cover;
+        height: 90vh;
+        width: 100%;
+     
+    }
+    
+    .main-box{
+        display: flex;
+        
+    }
+    .details {
+      overflow-y: scroll;
+        padding-left: 50px;
+        padding-top: 60px;
+      }
+      
+
+      .row.g-3.align-items-center.ps-5 {
+        padding-bottom: 15px;
+      }
+      .id.col-auto {
+        padding-right: 72px;
+      }
+      .name.col-auto {
+        padding-right: 47px;
+      }
+      .ad.col-auto {
+        padding-right: 34px;
+      }
+      .cont.col-auto {
+        padding-right: 37px;
+      }
+      .sal.col-auto {
+        padding-right: 50px;
+      }
+      .tableView {
+        padding: 20px;
+        height: 300px;
+        
+
+      }
+    
+
+      .input-edit{
+        height: 25px;
+      }
+
+
+    #info{
+      display: flex;
+      flex-direction: column;
+    }
+
+    
+
+    .tableView {
+      padding-top: 130px;
+      padding-left: 371px;
+      padding-right: 250px;
+    }
+    
+.page{
+    width: 400px;
+height: 323px;
+border: 2px solid black;
+background: rgb(255 ,225,225,0.5);
+
+}
+.page p{
+    line-height: 15px;
+}
